@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ShowXmlQuestions.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Desarrollo sostenible" author="druskov001@ikasle.ehu.es">
+		<itemBody>
+			<p>¿Que sector ha tenido un mayor porcentaje de robotizacien y, por ende, la mayor perdida de empleo?</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				Alojamiento y comida
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> Informatica </response>
+			<response> Construccion </response>
+			<response> Gestion </response>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem subject="Cambio climatico" author="kandreev001@ikasle.ehu.es">
+		<itemBody>
+			<p>¿Que se puede hacer de cara al transporte publico para combatir el cambio climatico?</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				Modernizarlo
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> No utilizarlo	 </response>
+			<response> No gastar dinero en cambiarlo	 </response>
+			<response> Utilizar solamente los comunitatios	 </response>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="Elecciones" author="inspector@ehu.eus">
+		<itemBody>
+			<p>Quien ganara las elecciones?</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				Joe Biden
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> Donald J Trump	 </response>
+			<response> Barack Obama	 </response>
+			<response> Anarquia	 </response>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="Mates" author="vadillo@ehu.es">
+		<itemBody>
+			<p>cuanto es 1+1</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				2
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> 11 </response>
+			<response> 3 </response>
+			<response> 1 </response>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="Desarrollo Sostenible	" author="melosegui006@ikasle.ehu.eus">
+		<itemBody>
+			<p>¿Que cantidad de agua del mundo es potable?	</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				0,5%	
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> 5%	 </response>
+			<response> 1%	 </response>
+			<response> 3%	 </response>
+		</incorrectResponses>
+	</assessmentItem>
+	
+</assessmentItems>
